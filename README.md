@@ -20,7 +20,6 @@ pip3 freeze
 returns the following:
 
 boto3==1.26.129
-
 botocore==1.29.129
 
 cassandra-driver==3.27.0
